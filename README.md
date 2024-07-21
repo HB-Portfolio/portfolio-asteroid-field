@@ -1,6 +1,6 @@
 # Asteroid Field
 
-Welcome to my game, **Asteroid Field**. I created this as my final project for the Code in Place course taught by Stanford. I faced some challenges with using polygons and maintaining accurate collision detection as the speed increased, so I pivoted to using solid shapes to ensure accurate collisions even at max speed.
+I created **Asteroid Field** as my final project for the Code in Place course taught by Stanford. I faced some challenges with using polygons and maintaining accurate collision detection as the speed increased, so I pivoted to using solid shapes to ensure accurate collisions even at max speed.
 
 **Author:** Hendrich Buhrer  
 **Certification:** [Stanford Code in Place Certificate](https://codeinplace.stanford.edu/cip4/certificate/e80xil)  
