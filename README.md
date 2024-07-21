@@ -14,7 +14,7 @@ I earned a certification for completing this course, which you can view [here](h
 
 ## Game Overview
 
-Asteroid Field is a game where the player navigates a spaceship through an asteroid field, avoiding collisions with asteroids and collecting stars to score points. The game gets progressively more challenging as the speed of the asteroids increases over time.
+Asteroid Field is a game where the player navigates a spaceship through an asteroid field, avoiding collisions with asteroids to score points. The game gets progressively more challenging as the speed of the asteroids increases over time.
 
 ### Key Features
 
@@ -45,8 +45,7 @@ All the files are uploaded to the repository. I encourage you to look at the cod
 ## How to Play
 
 - Use the left and right arrow keys to move the spaceship.
-- Avoid colliding with the asteroids.
-- Collect stars to increase your score.
+- Avoid colliding with the asteroids to increase your score..
 - The game speed increases over time, so stay alert!
 
 Feel free to explore the code and see how the game is implemented. If you have any questions or feedback, don't hesitate to reach out. 
